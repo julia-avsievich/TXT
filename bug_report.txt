@@ -7,3 +7,14 @@
  Severity: Critical;
  Priority: High;
  Comments: Have a good day;
+id
+Title
+STR
+Actual Result
+Expected Result
+Severity
+Priority
+Comments
+Attachments
+Role
+

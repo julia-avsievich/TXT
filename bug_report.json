@@ -1,1 +1,9 @@
-
+ id: 1,
+ Summary: Unable to add an item to the cart;
+ Description: The button 'cart' isn't clickable in the page 'Favourite';
+ STR: 1. Open app; 2. Go to the 'Market' page; 3. Add an item to the 'Favourite'; 4. Open page 'Favoutite'; 5. Click on button 'cart';
+ Expected result: 1. Button is clickable; 2. Item is added to the 'Cart' page;
+ Actual result: 1. Button isn't clickable; 2. Item isn't added to the 'Cart' Page;
+ Severity: Critical;
+ Priority: High;
+ Comments: Have a good day;

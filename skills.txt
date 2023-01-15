@@ -1,0 +1,15 @@
+Python
+Basic theory of testing
+HTTP methods
+reading and removing logs
+mobile testing
+Android studio
+Sniffing by Charled and Fiddler
+SQL basics
+Postgres database
+redis database
+JMeter
+API testing
+GitBash
+GitHub
+
